@@ -1,0 +1,22 @@
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.title-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: red;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.article-container {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
